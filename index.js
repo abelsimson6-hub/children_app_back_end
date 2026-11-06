@@ -1,0 +1,14 @@
+const variable=require('json-server')
+
+const server=jsonServer.create()
+
+const router=jsonServer.router('db.json')
+
+const middleware=jsonServer.defaults()
+
+server.use(middleware)
+server.use(router)
+server.listen(3000,()=>{
+    console.log("children app running on the port 3000");
+    
+})

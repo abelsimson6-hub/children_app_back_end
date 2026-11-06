@@ -1,0 +1,64 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "childName": "Anu",
+      "title": "Learn Alphabets",
+      "category": "Language",
+      "difficulty": "Easy",
+      "scheduledDate": "2026-10-30",
+      "duration": 30,
+      "status": "In Progress",
+      "progress": 50,
+      "notes": "Practice letters A to Z"
+    },
+    {
+      "childName": "abel",
+      "title": "learning words",
+      "category": "Language",
+      "difficulty": "Easy",
+      "scheduledDate": "2026-11-04",
+      "duration": 30,
+      "status": "Completed",
+      "progress": "100",
+      "notes": "",
+      "id": "un3h-Yb"
+    },
+    {
+      "childName": "sanjay",
+      "title": "studying",
+      "category": "Science",
+      "difficulty": "Hard",
+      "scheduledDate": "2026-11-05",
+      "duration": 30,
+      "status": "Not Started",
+      "progress": 0,
+      "notes": "",
+      "id": "2Mhd5yi"
+    },
+    {
+      "childName": "akhil",
+      "title": "study ",
+      "category": "Maths",
+      "difficulty": "Easy",
+      "scheduledDate": "2026-11-03",
+      "duration": 30,
+      "status": "Completed",
+      "progress": "100",
+      "notes": "",
+      "id": "IKE7O2u"
+    },
+    {
+      "childName": "riya",
+      "title": "rrvrvrvb",
+      "category": "Other",
+      "difficulty": "",
+      "scheduledDate": "2026-11-19",
+      "duration": "33",
+      "status": "Not Started",
+      "progress": 0,
+      "notes": "",
+      "id": "VrZqMRc"
+    }
+  ]
+}
