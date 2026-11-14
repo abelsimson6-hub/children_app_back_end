@@ -49,16 +49,170 @@
       "id": "IKE7O2u"
     },
     {
-      "childName": "riya",
-      "title": "rrvrvrvb",
-      "category": "Other",
+      "childName": "sujith",
+      "title": "studying",
+      "category": "Science",
+      "difficulty": "Hard",
+      "scheduledDate": "2026-11-25",
+      "duration": "60",
+      "status": "In Progress",
+      "progress": 0,
+      "notes": "",
+      "id": "D_mi8cI"
+    },
+    {
+      "childName": "abin",
+      "title": "study",
+      "category": "Maths",
       "difficulty": "",
-      "scheduledDate": "2026-11-19",
-      "duration": "33",
+      "scheduledDate": "2026-11-07",
+      "duration": "120",
+      "status": "In Progress",
+      "progress": 0,
+      "notes": "",
+      "id": "0cPC3so"
+    },
+    {
+      "childName": "samjay",
+      "title": "kqjcfnkwe",
+      "category": "Science",
+      "difficulty": "",
+      "scheduledDate": "2026-11-25",
+      "duration": "60",
       "status": "Not Started",
       "progress": 0,
       "notes": "",
-      "id": "VrZqMRc"
+      "id": "7z6rKTJ"
+    },
+    {
+      "childName": "abel",
+      "title": "dbgdb",
+      "category": "Maths",
+      "difficulty": "",
+      "scheduledDate": "2026-11-03",
+      "duration": "4444",
+      "status": "Not Started",
+      "progress": 0,
+      "notes": "",
+      "id": "Byl3rB_"
+    },
+    {
+      "childName": "lknkl",
+      "title": "btrb",
+      "category": "Language",
+      "difficulty": "",
+      "scheduledDate": "2026-11-02",
+      "duration": "222",
+      "status": "Not Started",
+      "progress": 0,
+      "notes": "",
+      "id": "wQ47oOU"
+    }
+  ],
+  "students": [
+    {
+      "id": "101",
+      "name": "Anu",
+      "class": "Class 5",
+      "email": "anu@example.com"
+    },
+    {
+      "id": "102",
+      "name": "Arun",
+      "class": "Class 5",
+      "email": "arun@example.com"
+    },
+    {
+      "id": "103",
+      "name": "Meera",
+      "class": "Class 6",
+      "email": "meera@example.com"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "1",
+      "taskId": "1",
+      "studentId": "101",
+      "submissionText": "My answers are 10, 20, 30...",
+      "attachmentUrl": "",
+      "submittedAt": "2026-11-18",
+      "marks": null,
+      "feedback": "",
+      "status": "Submitted"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Addition Practice",
+      "description": "Complete 20 addition questions.",
+      "subject": "Mathematics",
+      "assignedStudents": [
+        "101",
+        "102"
+      ],
+      "dueDate": "2026-11-20",
+      "priority": "High",
+      "totalMarks": 20,
+      "status": "Assigned",
+      "createdAt": "2026-11-10"
+    },
+    {
+      "title": "reading",
+      "description": "2ekjcn3k",
+      "subject": "English",
+      "assignedStudents": [
+        "103"
+      ],
+      "dueDate": "2026-11-14",
+      "priority": "Medium",
+      "totalMarks": 20,
+      "status": "Assigned",
+      "createdAt": "2026-11-11",
+      "id": "I8Vpoik"
+    }
+  ],
+  "videos": [
+    {
+      "title": "addition",
+      "subject": "Mathematics",
+      "topic": "edcefc",
+      "videoUrl": "d  d ",
+      "description": "wsxnwsxj",
+      "scheduledDate": "",
+      "duration": 0,
+      "assignedStudents": [
+        "un3h-Yb"
+      ],
+      "id": 1
+    },
+    {
+      "title": "science",
+      "subject": "Science",
+      "topic": "speed",
+      "videoUrl": "https://www.youtube.com/watch?v=PjfeGG1K44U",
+      "description": "efevrv",
+      "scheduledDate": "2026-11-26",
+      "duration": 2,
+      "assignedStudents": [
+        "2Mhd5yi",
+        "IKE7O2u"
+      ],
+      "id": 2
+    },
+    {
+      "title": "maths",
+      "subject": "Mathematics",
+      "topic": "rvrvrtv",
+      "videoUrl": "https://www.youtube.com/watch?v=iuTWh3omxis",
+      "description": "vfrmvlk",
+      "scheduledDate": "2026-11-13",
+      "duration": 0,
+      "assignedStudents": [
+        "D_mi8cI"
+      ],
+      "id": 3
     }
   ]
 }
